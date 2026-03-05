@@ -68,14 +68,6 @@ Some areas I work on:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliahmad4585\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmad4585\&layout=compact)
-
----
-
 ## 📫 How to Reach Me
 
 GitHub
