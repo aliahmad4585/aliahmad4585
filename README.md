@@ -1,39 +1,26 @@
-## Hi there 👋
-
 # Hi 👋 I'm Ali Ahmad
-
 Backend Engineer focused on building **scalable systems, automation tools, and high-performance APIs**.
 
-I enjoy solving complex backend problems and designing **clean architectures, distributed systems, and developer tooling**.
-
 ---
-
 ## 🚀 What I'm Working On
-
-* Backend APIs with **Node.js and Laravel**
+* Backend APIs with **Node.js and PHP**
 * Automation bots for monitoring and alerts
 * Building developer utilities and NPM packages
-* Exploring **AWS serverless architectures**
-
 ---
 
 ## 🌱 Currently Learning
-
-* AWS cloud architecture
+* Exploring **AWS serverless architectures**
 * Distributed system patterns
 * Streaming architectures
 * High-performance Node.js systems
-
 ---
 
 ## 💬 Ask Me About
-
 * Node.js backend architecture
 * Laravel application design
 * API development
 * Authentication systems (OAuth2, SAML, OpenID Connect)
 * Microservices and distributed systems
-
 ---
 
 ## 🛠 Tech Stack
@@ -56,7 +43,7 @@ MySQL • MongoDB • Redis
 
 **Architecture**
 
-Microservices • Pub/Sub systems • Distributed systems • REST APIs
+Microservices • Pub/Sub systems • Distributed systems • REST APIs • SSO
 
 **Cloud & DevOps**
 
